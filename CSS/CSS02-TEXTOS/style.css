@@ -1,0 +1,59 @@
+p{
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 134, 134);
+    font-style: italic;
+    line-height: 500%;
+    font-size: 100%;
+    
+}
+
+img{
+    height: 500px;
+    width: 100%;
+}
+
+#paragrafo{
+    font-size: 6rem;
+}
+
+
+#p1{
+    color: white;
+}
+
+#p2{
+    color: rgb(255, 4, 67);
+}
+
+.divs{
+    background-color: rgb(255, 255, 255);
+}
+
+* {
+    background-color: rgb(202, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+#section1{
+    background-color: red;
+}
+
+#section2{
+    background-color: purple;
+}
+
+.hclass{
+    color: green;
+    background-color: white;
+}
+
+#a1{
+    color: white;
+    font-size: 35px;
+}
+
+#a2{
+    color: gray;
+    font-size: 54px;
+}

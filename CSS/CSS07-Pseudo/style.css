@@ -1,0 +1,40 @@
+button{
+    background-color: rgb(2, 2, 2);
+    color: white;
+    width: 100px;
+    border-radius: 5px;
+    border-color: aquamarine;
+
+}
+
+button:hover{
+    background-color: aquamarine;
+    color: white;
+    border-color: black;
+    cursor: pointer
+}
+
+#p1:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+input:focus{
+    background-color: red;
+}
+
+li:nth-of-type(1){
+    border: 1px solid orange;
+}
+
+#p2::before{
+    content: " - aqui nos addemos o after";
+    border: 2px solid aqua;
+}
+
+.P3::first-letter{
+    font-size: 4em;
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}

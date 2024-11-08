@@ -1,0 +1,24 @@
+height: Altura
+width: Largura
+
+
+font-size: Configura o tamanho de um texto 
+
+Medidas absolutas: cm = centimetros | in = polegadas ( 1 polegada é = 2.54cm ) | px = pixel (1 pixel é = 1/90 in)
+
+Medidas relativas: %, em, rem, vh, vw
+
+Elemendo root(raiz) = html 
+rem = sempre ira responder ao tamanho configurado no elemento root(html)
+
+em = sempre ira rsepeitar o tamanho definido no elemento pai mais proximo
+------------------------------------------------
+
+
+
+body{
+    background-image: url("./2410140-rio-a-noite-paisagem-fundo-gratis-vetor.jpg ");
+    background-position: 50%;
+    background-attachment: fixed;
+    background-size: cover;
+}

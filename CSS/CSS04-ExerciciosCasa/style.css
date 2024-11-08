@@ -1,0 +1,34 @@
+body{
+    background-image: url("./uma-parede-branca-com-um-fundo-branco-que-diz-a-palavra-citacao-sobre-ele_994023-371201.avif");
+    background-position: 50%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#p1{
+    border-width: 3px;
+    border-color: rgb(0, 255, 255);
+    border-style: ridge;
+}
+
+#p2{
+    box-shadow: 10px 10px 10px blue;
+
+}
+
+figure{
+    border: 3px solid;
+    width: 350px;
+    border-radius: 10px;
+}
+
+img{
+    width: 350px;
+}
+
+
+
+figcaption{
+    text-align: center;
+}
+

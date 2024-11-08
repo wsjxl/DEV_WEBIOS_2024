@@ -1,0 +1,11 @@
+.container{
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px;
+    grid-template-rows: 25px 25px 25px 25px;
+}
+
+.Item{
+    border: 1px solid black;
+    background-color: aqua;
+}
+
